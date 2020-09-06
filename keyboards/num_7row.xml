@@ -76,7 +76,7 @@
 	android:horizontalGap="1.5%p" />
 	<Key android:keyLabel="*\n0"
 	android:keyWidth="19%p" />
-	<Key android:keyLabel="\\\n."
+	<Key android:keyLabel=".\n/"
 	android:keyWidth="19%p" />
 	<Key android:keyLabel="∉..."
 	android:keyWidth="10%p"
