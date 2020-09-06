@@ -1,11 +1,11 @@
 # 7-row programming and math jbak2 layouts
 English, Russian, Ukrainian and numeric+additional symbol layouts.
 
-![alt text][dark]
-![alt text][num]
-![alt text][edit]
-![alt text][bright]
-![alt text][v_dark]
+![dark skin][dark]
+![numeric layout][num]
+![edit pop-up keyboard][edit]
+![bright skin][bright]
+![very dark skin][v_dark]
 
 - Navigation arrows.
 - Huge spacebar you won't miss even when you aren't looking at it.
@@ -36,5 +36,5 @@ For extra information please seek the developer information:
  [bright]: img/bright.jpg "Bright skin"
  [v_dark]: img/v_dark.jpg "Very dark skin"
  [num]: img/num.jpg "Numeric layout"
- [edit]: edit.jpg "Edit pop-up keyboard"
+ [edit]: img/edit.jpg "Edit pop-up keyboard"
  
