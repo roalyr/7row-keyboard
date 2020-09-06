@@ -1,0 +1,7 @@
+calc/
+save_clipboard/
+templates/
+vocab/
+*.txt
+Settings_backup.xml
+instruction.txt
