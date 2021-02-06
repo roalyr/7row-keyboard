@@ -5,10 +5,10 @@
 //Key background
 //----------
 //Gradient start color for key background
-KeyBackStartColor=0xff555555
+KeyBackStartColor=0xff777777
 
 //Gradient final color
-KeyBackEndColor=0xff333333
+KeyBackEndColor=0xff222222
 
 //Gradient type. 0 - linear, 1 - radial
 KeyBackPressedGradientType=1
@@ -62,10 +62,10 @@ KeyPressedStrokeEndColor=0xff222222
 //Keyboard background
 //----------
 //Gradient start color for keyboard background
-KeyboardBackgroundStartColor=0xff222222
+KeyboardBackgroundStartColor=0xff666666
 
 //Gradient final color for keyboard background
-KeyboardBackgroundEndColor=0xff222222
+KeyboardBackgroundEndColor=0xff111111
 
 //Gradient type. 0 - linear, 1 - radial
 KeyboardBackgroundGradientType=1
@@ -87,10 +87,10 @@ SpecKeyTextPressedColor=0xffffffff
 SpecKeySymbolPressedColor=0xffffffff
 
 //Gradient start color for key background
-SpecKeyBackStartColor=0xff777777
+SpecKeyBackStartColor=0xff999999
 
 //Gradient final color for key background
-SpecKeyBackEndColor=0xff555555
+SpecKeyBackEndColor=0xff444444
 
 //Gradient start color for key stroke
 SpecKeyStrokeStartColor=0xff222222
@@ -118,11 +118,11 @@ SpecKeyPressedStrokeEndColor=0xff005050
 //General
 //----------
 //Indent size of key background (in pixels) from the full key rectangle
-KeyGapSize=2
+KeyGapSize=3
 
 //Corner radius of key rectangle on the X axis, if it is not set - 9
-KeyBackCornerX=4
+KeyBackCornerX=5
 
 //Corner radius of key rectangle on the Y axis, if it is not set - 9
-KeyBackCornerY=4
+KeyBackCornerY=5
 
